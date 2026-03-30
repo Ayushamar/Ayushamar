@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Ayush Kumar Amar</h1>
 
 <p align="center">
-  <strong>Java Backend Developer | Spring Boot Specialist</strong><br>
+  <strong>Java Backend Developer | Spring Boot Enthusiast</strong><br>
   Passionate about building scalable RESTful APIs & high-performance systems
 </p>
 
